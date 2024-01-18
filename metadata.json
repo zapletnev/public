@@ -1,7 +1,7 @@
 {
    "name": "Kek Coin",
    "description": "Official Kek Coin",
-   "symbol": "KEK",
+   "symbol": "KEK2",
    "decimals": 9,
-   "image_data": "https://i.imgur.com/ztRVeSK.png"
+   "image": "https://i.imgur.com/ztRVeSK.png"
 }
